@@ -1,0 +1,6 @@
+.python-version
+*.sw*
+venv
+*.pyc
+config.yaml
+*~
